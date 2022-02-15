@@ -1,0 +1,88 @@
+.stu-sidebar{
+	margin-top: 100px;
+}
+.complain-form{
+	width: 700px;
+	height: 400px;
+	margin-left: 350px;
+	padding: 30px;
+	margin-top: 10px;
+}
+.complain-form-main{
+	width: 700px;
+	height: 400px;
+	margin-left: 630px;
+	padding: 30px;
+	margin-top: 10px;
+}
+.complain-form-edit{
+	width: 700px;
+	height: 400px;
+	margin-left: 350px;
+	padding: 30px;
+	margin-top: -10px;
+}
+.complain-form-detail{
+	width: 700px;
+    height: 400px;
+    margin-left: 630px;
+    padding: 30px;
+    margin-top: 10px;
+}
+.complain-form-con{
+	margin: 40px 0px;
+}
+.lbl{
+	margin-right: 50px;
+	font-size: 18px;
+}
+.option-to{
+	margin-left: 72px;
+	width: 150px;
+	height: 35px;	
+}
+.option-type{
+	margin-left: 57px;
+	width: 150px;
+	height: 35px;
+}
+.option-room{
+	width: 150px;
+	height: 35px;
+	margin-left:20px;
+}
+.option-prob{
+	width: 250px;
+	height: 35px;
+	margin-left:25px;
+}
+.option-other{
+	margin-left: -15px;
+}
+.btn-complain-add a{
+	color: #fff;
+	text-decoration: none;
+	display: inline-block;
+	padding: 10px 20px;
+	border-radius: 10px;
+	margin-left: 100px;
+	margin-top: -5px;
+	background-color: #565350;
+	font-weight: 750;
+	letter-spacing: 1.5;
+}
+.btn-complain-add a:hover{
+	color: #fff;
+	background-color: #000;
+}
+.web-logo{
+	width: 120px;
+	height: 55px;
+	border-radius: 20px;
+}
+/*
+Manage Complains Css
+*************************************************************************************************/
+
+
+
