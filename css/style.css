@@ -149,8 +149,9 @@ h1,h2,h3,h4,h5,h6{
 	font-family: sans-serif;
 }
 .team-member{
-	width: 25%;
+	width: 50%;
 	float: left;
+	padding: 100px;
 }
 .team-member img{
 	width: 100%;

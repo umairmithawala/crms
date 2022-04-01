@@ -14,11 +14,11 @@ include ("../header.php");
 
 		$number_of_pages = ceil($number_of_results/$results_per_page);
 
-		if (isset($_GET['page'])) {
-			$page = $_GET['page'];
-		} else {
-			$page = 1;
-		}
+		// if (isset($_GET['page'])) {
+		// 	$page = $_GET['page'];
+		// } else {
+		// 	$page = 1;
+		// }
 
 		$this_page_first_result = ($page-1)*$results_per_page;
 

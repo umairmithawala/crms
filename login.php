@@ -26,7 +26,7 @@
 
 			<h2> Log in </h2>
 			
-			<form   action = "RL/logindata.php"  method = "POST">
+			<form action = "Student/complain/complain.php"  method = "POST">
 				<input type="text" name="email" placeholder="Email address" class="login-input-txt"><br><br>
 				<input type="password" name="pass" placeholder="Password" class="login-input-password"> 
 				

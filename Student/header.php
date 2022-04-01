@@ -4,17 +4,18 @@
 <link rel="stylesheet" type="text/css" href="../../css/all.css?v=<?php echo time(); ?>">
 <?php 
 session_start();
+error_reporting (0);
 
-if(!isset( $_SESSION["userEmails"])){
-	echo "<script>window.location.href='../../login.php'</script>";
-	$flag=1;
-}
-else{
-	$type=$_SESSION['userType'];
-	$email=$_SESSION['userEmails'];
+// if(!isset( $_SESSION["userEmails"])){
+// 	echo "<script>window.location.href='../../login.php'</script>";
+// 	$flag=1;
+// }
+// else{
+// 	$type=$_SESSION['userType'];
+// 	$email=$_SESSION['userEmails'];
 	
-	$flag=0;
-}
+// 	$flag=0;
+// }
 ?>
 
 <div class="container-fluid menu-bg-color">

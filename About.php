@@ -72,18 +72,6 @@
 				<h3> Saqib </h3>
 			</div>
 		</div>
-		<div class="team-member">
-			<div class="team-member-img">
-				<img src="img/img3.jpg">
-				<h3> Manav </h3>
-			</div>
-		</div>
-		<div class="team-member">
-			<div class="team-member-img">
-				<img src="img/img4.jpg">
-				<h3> Yash </h3>
-			</div>
-		</div>
 	</div>
 </div>
 
